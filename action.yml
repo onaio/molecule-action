@@ -1,5 +1,5 @@
 ---
-name: Ansible Molecule
+name: Ansible Molecule Test
 description: Use Molecule to test Ansible roles
 author: Ona Engineering <tech@ona.io>
 
